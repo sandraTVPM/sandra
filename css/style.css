@@ -1,0 +1,102 @@
+#heading{
+    background-color: #ff4c68;
+}
+.icon{
+    color: #ef8172;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+.pic{
+    width: 150px;
+    height: 300px;
+    border-radius: 100%;
+    margin-left:550px;
+    margin-top :25px; 
+}
+#header{
+    background-color: #ef8172;
+
+}
+.capslock{
+    margin-left: 550px;
+}
+.tab{
+    margin-left: 550px;
+}
+
+.cap{
+    margin-left: 550px;
+
+}
+.foot{
+    margin-left:  500px; 
+    margin-top:  30px ;
+}
+.footer{
+
+    margin-left:  500px; 
+    margin-top:  30px ;
+}
+.head{
+    margin-left:  500px; 
+    margin-top:  30px ;
+}
+.image{
+    width:150px;
+    height:150px;
+}
+.box{
+    margin-left: 40px;
+}
+.box1{
+    margin-left: 40px;
+}
+.box3{
+    background-color: #ef8172;
+    color: white;
+}
+.ab{
+    margin-left:150px ;
+}
+.cd{
+    margin-left:150px ;
+}
+.ef{
+    margin-left: 150px;
+}
+.gh{
+    margin-left: 150px;
+}
+.malu{
+    margin-left: 600px;
+    margin-bottom: 30px;
+}
+.box5{
+    margin-left: 600px;
+}
+.box6{
+    margin-left: 800px;
+    margin-top:- 20px;
+}
+.box7{
+    margin-left: 600px;
+}
+.box8{
+    margin-left: 600px;
+}
+.box9{
+    margin-left: 500px;
+}
+.p1{
+    margin-left: 30px;
+}
+.p2{
+    margin-left: 30px;
+}
+.p6{
+    margin-left: 30px;
+}
+.p7{
+    margin-left: 30px;
+}
